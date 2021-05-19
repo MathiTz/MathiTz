@@ -12,7 +12,7 @@
 
 <h3> Study program enrolled: </h3>
 <ul>
-  <li>GoStack 12: Typescript: { ReactJS, NodeJS }, Express, Docker, Postgres, MongoDB</li>
+  <li>Ignite 1: Typescript: { ReactJS, NodeJS }, Express, Docker, Postgres, MongoDB</li>
   <li>Study Group of UX/UI</li>
 </ul>
 
@@ -25,6 +25,7 @@
 <ul>
   <li>PHP</li>
   <li>Javascript</li>
+  <li>Go Lang</li>
 </ul>
 
 <h3> Frameworks: </h3>
@@ -34,6 +35,7 @@
   <li>Laravel</li>
   <li>Express</li>
   <li>ReactJS</li>
+  <li>VueJS</li>
   <li>React-Native</li>
 </ul>
 
