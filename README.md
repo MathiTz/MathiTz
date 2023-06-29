@@ -2,23 +2,21 @@
 
 <h3>My name is Matheus Alves</h3>
 
-<p>Currently working as a full stack developer on Instituto Atlântico using MERN:</p>
+<p>Currently working as a front end developer on Uber:</p>
 <ul>
-  <li>MongoDB</li>
-  <li>Express</li>
-  <li>ReactJS</li>
-  <li>NodeJS</li>
+  <li>ReactJS TS</li>
+  <li>Golang</li>
+  <li>Graphql</li>
 </ul>
 
 <h3> Study program enrolled: </h3>
 <ul>
-  <li>Ignite 1: Typescript: { ReactJS, NodeJS }, Express, Docker, Postgres, MongoDB</li>
-  <li>Study Group of UX/UI</li>
+  <li>Branas: Clean Architecture </li>
 </ul>
 
-<h3> University enrolled: </h3>
+<h3> Graduated at: </h3>
 <ul>
-  <li>Analysis and Development of Systems: Senior Year</li>
+  <li>Analysis and Development of Systems</li>
 </ul>
 
 <h3> Programming Languages: </h3>
