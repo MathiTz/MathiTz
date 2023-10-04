@@ -33,7 +33,7 @@
 </ul>
 
 <h3>
-  [![Mathitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mathitz/github-readme-stats)
+  [![Mathitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathitz)](https://github.com/anuraghazra/github-readme-stats)
 </h3>
 
 <p align='center'>Some ways to reach me: </p>
