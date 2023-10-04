@@ -32,11 +32,7 @@
   <li>React-Native</li>
 </ul>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mathitz&theme=dracula" />
-</picture>
-  
+![Mathitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathitz&show_icons=true&bg_color=00000000)  
 
 <p align='center'>Some ways to reach me: </p>
     <p align='center'>
