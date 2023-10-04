@@ -32,10 +32,8 @@
   <li>React-Native</li>
 </ul>
 
-<div style="display: flex;">
 ![Mathitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathitz&show_icons=true&bg_color=00000000)  
 ![Mathitz's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mathitz&theme=dracula)
-</div>
 
 <p align='center'>Some ways to reach me: </p>
     <p align='center'>
