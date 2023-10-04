@@ -9,11 +9,6 @@
   <li>Graphql</li>
 </ul>
 
-<h3> Study program enrolled: </h3>
-<ul>
-  <li>Branas: Clean Architecture </li>
-</ul>
-
 <h3> Graduated at: </h3>
 <ul>
   <li>Analysis and Development of Systems</li>
@@ -23,7 +18,7 @@
 <ul>
   <li>PHP</li>
   <li>Javascript</li>
-  <li>Go Lang</li>
+  <li>Go</li>
 </ul>
 
 <h3> Frameworks: </h3>
@@ -36,6 +31,10 @@
   <li>VueJS</li>
   <li>React-Native</li>
 </ul>
+
+<h3>
+  [![Mathitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mathitz/github-readme-stats)
+</h3>
 
 <p align='center'>Some ways to reach me: </p>
     <p align='center'>
