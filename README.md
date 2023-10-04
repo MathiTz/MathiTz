@@ -32,9 +32,11 @@
   <li>React-Native</li>
 </ul>
 
-<h3>
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mathitz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</h3>
+<picture>
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mathitz&theme=dracula" />
+</picture>
+  
 
 <p align='center'>Some ways to reach me: </p>
     <p align='center'>
